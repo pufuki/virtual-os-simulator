@@ -4,9 +4,7 @@ An interactive web-based simulator for visualizing core operating system and com
 
 ## Demo
 
-![Virtual OS Architecture Simulator Screenshot](docs/screenshot.png)
-
-[Watch Demo Video](docs/demo.mp4)
+<video src="assets/video.mp4" controls width="100%"></video>
 
 ## Features
 
