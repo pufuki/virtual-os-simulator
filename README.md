@@ -4,7 +4,7 @@ An interactive web-based simulator for visualizing core operating system and com
 
 ## Demo
 
-<video src="assets/video.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/79ffbf7e-74f2-4ab5-8fbb-604a419c171f
 
 ## Features
 
